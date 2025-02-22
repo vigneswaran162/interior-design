@@ -201,6 +201,10 @@ footer{
     .h-strech{
         grid-column: span 1;
     }    
+
+    .content a{
+        font-size: 8px !important;
+    }
 }
 @keyframes animate{
     0%{
