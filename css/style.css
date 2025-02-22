@@ -212,22 +212,6 @@ footer{
     #service{
         margin: 20px !important;
     }
-    .col-xs-10 h1{
-        font-size: 12px !important;
-    }
-    .col-xs-10 .h3{
-        font-size: 10px !important;
-    }
-    .col-xs-10 .h2{
-        font-size: 10px !important;
-
-    }
-    .col-xs-10 p {
-        font-size: 8px !important;
-    }
-    .col-xs-10 a{
-        font-size: 8px;
-    }
 }
 @keyframes animate{
     0%{
